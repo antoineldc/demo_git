@@ -1,14 +1,2 @@
 # demo_git
-Une démo de git
-c'est un test pour voir si tout va bien
-
-
-on retest lol
-coucou
-
-
-je changeeee sur la machine
-
-
-
-et re sur github lolll
+J'ai tout supprimé car c'était nul
